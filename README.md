@@ -69,17 +69,30 @@ Full-stack ride booking platform with real-time driver-passenger matching using 
 
 ## 📊 GitHub Stats
 
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ghadiyadisha748&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" height="170" alt="GitHub Stats"/>
+<table>
+<tr>
+<td>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghadiyadisha748&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" height="170" alt="Top Languages"/>
-<br/><br/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ghadiyadisha748&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" width="400"/>
 
-<img src="https://streak-stats.demolab.com?user=ghadiyadisha748&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc&background=0d1117" alt="GitHub Streak"/>
+</td>
+
+<td>
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ghadiyadisha748&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" width="330"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=ghadiyadisha748&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc&background=0d1117"/>
 
 </div>
-
 
 ### 📈 Contribution Graph
 
