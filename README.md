@@ -74,19 +74,16 @@ Full-stack ride booking platform with real-time driver-passenger matching using 
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ghadiyadisha748&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ghadiyadisha748&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" height="170" alt="GitHub Stats"/>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ghadiyadisha748&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" height="165"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ghadiyadisha748&layout=compact&langs_count=6&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" height="170" alt="Top Languages"/>
+
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=ghadiyadisha748&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc&background=0d1117" alt="GitHub Streak"/>
 
 </div>
 
-### 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ghadiyadisha748&theme=nord&no-frame=true&no-bg=true&margin-w=8&margin-h=8" alt="Trophies"/>
-</div>
 
 ### 📈 Contribution Graph
 
