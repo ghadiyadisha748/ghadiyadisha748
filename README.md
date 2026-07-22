@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=220&section=header&text=Disha%20Ghadiya&fontSize=42&fontColor=0b1120&animation=twinkling&fontAlignY=35&desc=B.Tech%20AIML%20Student%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
-
 
 <br/>
 
