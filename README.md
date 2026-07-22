@@ -30,10 +30,7 @@
 
 Full-stack ride booking platform with real-time driver-passenger matching using React, Node.js, Express, PostgreSQL & Socket.IO.
 
-<div align="center">
-<a href="https://github.com/ghadiyadisha748/RIDE-DISPATCHER">
-</a>
-</div>
+
 
 | Layer      | Technology              |
 |------------|--------------------------|
@@ -74,10 +71,9 @@ Full-stack ride booking platform with real-time driver-passenger matching using 
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ghadiyadisha748&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" height="170" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ghadiyadisha748&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" height="170" alt="GitHub Stats"/>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ghadiyadisha748&layout=compact&langs_count=6&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" height="170" alt="Top Languages"/>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghadiyadisha748&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" height="170" alt="Top Languages"/>
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=ghadiyadisha748&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc&background=0d1117" alt="GitHub Streak"/>
