@@ -106,7 +106,7 @@ Full-stack ride booking platform with real-time driver-passenger matching using 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/disha-ghadiya-8a4598384/)
-[![Email](https://img.shields.io/badge/Email-7dd3fc?style=for-the-badge&logo=gmail&logoColor=0b1120)](mailto:ghadiyadisha748@gmail.com)
+[![Email](https://img.shields.io/badge/Email-7dd3fc?style=for-the-badge&logo=gmail&logoColor=0b1120)](https://mail.google.com/mail/?view=cm&fs=1&to=ghadiyadisha748@gmail.com)
 
 </div>
 
