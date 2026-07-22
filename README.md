@@ -2,9 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=220&section=header&text=Disha%20Ghadiya&fontSize=42&fontColor=0b1120&animation=twinkling&fontAlignY=35&desc=B.Tech%20AIML%20Student%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=B.Tech+AIML+Student+%7C+AI+%26+ML+Enthusiast;Building+Ride+Dispatcher+System+%F0%9F%9A%97;React+%2B+Node.js+%2B+Express+%2B+PostgreSQL;Learning+DSA%2C+one+problem+at+a+time" alt="Typing SVG" />
-</a>
 
 <br/>
 
