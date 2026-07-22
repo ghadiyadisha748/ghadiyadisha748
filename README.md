@@ -8,34 +8,20 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=ghadiyadisha748&label=Profile%20Views&color=7dd3fc&style=flat" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/ghadiyadisha748?label=Followers&style=flat&color=7dd3fc" alt="Followers"/>
-
 </div>
 
 <br/>
 
+
 ## 👩‍💻 Who I Am
 
-```ts
-const disha = {
-  title: "B.Tech AIML Student (2nd Year) | AI & ML Enthusiast",
-  stack: [
-    "C", "C++", "Python",
-    "HTML", "CSS", "JavaScript",
-    "React", "Node.js", "Express.js",
-    "PostgreSQL", "Git", "GitHub", "VS Code",
-    "AI Tools", "Basic DSA"
-  ],
-  launchedProjects: [
-    "Ride Dispatcher System — full-stack ride booking platform with real-time driver-passenger matching"
-  ],
-  certifications: [],
-  status: "Learning AI/ML foundations while building full-stack projects",
-  openTo: "Collaborations, open-source contributions & learning opportunities"
-};
-```
-
+- 🎓 B.Tech AIML Student (2nd Year)
+- 🤖 AI & ML Enthusiast
+- 💻 Skilled in C, C++, Python, HTML, CSS, JavaScript
+- ⚛️ Learning React, Node.js, Express & PostgreSQL
+- 🚀 Building Full-Stack Projects
+- 🌱 Currently improving DSA and AI/ML
+- 🤝 Open to collaborations and open-source contributions
 <br/>
 
 ## 🚀 Featured Projects
@@ -46,7 +32,6 @@ Full-stack ride booking platform with real-time driver-passenger matching using 
 
 <div align="center">
 <a href="https://github.com/ghadiyadisha748/RIDE-DISPATCHER">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ghadiyadisha748&repo=RIDE-DISPATCHER&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" alt="Ride Dispatcher System"/>
 </a>
 </div>
 
@@ -89,8 +74,9 @@ Full-stack ride booking platform with real-time driver-passenger matching using 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ghadiyadisha748&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghadiyadisha748&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" height="165"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ghadiyadisha748&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" height="165"/>
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ghadiyadisha748&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" height="165"/>
 
 <img src="https://streak-stats.demolab.com?user=ghadiyadisha748&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc&background=0d1117" alt="GitHub Streak"/>
 
